@@ -10,4 +10,4 @@ __Authors: Aleksandra Bordunos, Ksenia Kaisheva, Sergey Sevriukov__
 Recommended viewing order:
 1. How to attribute [Q1-Q4](docs/Q1_Q4.ipynb)
 2. Bibliometric Analysis for literature review
-3. [Topic modeling](docs/LDA.ipynb) for literature review
+3. Topic modeling for literature review
