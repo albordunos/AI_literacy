@@ -9,5 +9,6 @@ __Authors: Aleksandra Bordunos, Ksenia Kaisheva, Sergey Sevriukov__
 
 Recommended viewing order:
 1. How to attribute [Q1-Q4](https://github.com/albordunos/AI_literacy/blob/main/Q1_Q4.ipynb) 
-2. Bibliometric Analysis for literature review
+2. [Bibliometric Analysis](https://github.com/albordunos/AI_literacy/blob/main/Short_BibAnalysis.ipynb) for literature review
 3. [Topic modeling](https://github.com/albordunos/AI_literacy/blob/main/LDA_Excel.ipynb) for literature review
+
